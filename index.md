@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+### About
 
-You can use the [editor on GitHub](https://github.com/suengj/suengj.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This webpage is a collection of my interests and projects in the fields of social network analysis, data science, text analysis, and machine learning. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<b><i> bio </i></b> 
 
-### Markdown
+![profile_pic](http://res.cloudinary.com/djemws8d8/image/upload/c_scale,w_150/v1527602031/KakaoTalk_20180529_225037917.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<b>Suengjae Hong (홍승재)</b>
 
-```markdown
-Syntax highlighted code block
+<b> [Resume](https://www.linkedin.com/in/suengjaehong/) (Linkedin)</b>
 
-# Header 1
-## Header 2
-### Header 3
+<b>Contact </b>
+- <suengjae.hong@gmail.com>
+- [Instagram](https://www.instagram.com/suengj/)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Table of Contents
+<b> A Beginning Guide to... </b>
+- [R]()
+	- [R Basic](https://github.com/suengj/R_basic/blob/master/README.md): [more contents](https://github.com/suengj/R_basic)
+	- [The R Package]()
+- [Python]()
+	- [Python Basic](https://github.com/suengj/Python_basic/blob/master/README.md): [more contents](https://github.com/suengj/Python_basic)
+	- [The Python Library]()
+- [STATA]()
+	- [STATA Basic]()
+	- [IPySTATA](https://github.com/suengj/STATA_basic/blob/master/README.md)
+- [Social Network]()
+	- [Basic]()
+	- [Theory]() & [Analysis]()
+- [Statistics & Mathematics]()
+	- [Statistics]()
+	- [Mathematics]()
+- [Machine Learning]()
+	- [Basic]()
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<b> Research & Personal Project </b>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- <i> [Social Network]() </i>
+	- [Methodology]()
+		- MRQAP: [Github]()
+		- ERGM: [Github](https://github.com/suengj/siena-ergm)
+		- SIENA: [Github](https://github.com/suengj/siena-ergm)
+	- [Analysis]()
+		- Network Imprinting (Masters Dissertation): [Github]()
+			- Venture Capital Industry
+		- Subelt 2013: [Github](https://github.com/suengj/sunbelt2013)
+		- Film Character Analysis: [Github](https://github.com/suengj/film_char_network)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/suengj/suengj.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- <i> [Machine Learning]() </i>
+	- [Predication]()
+		- Titanic Survival: [Github](https://github.com/suengj/titanic_survival)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- <i> [Text Mining and Analysis]() </i>
+	- News Agency Analysis: [Github](https://github.com/suengj/News-Agency-Similarity)
+
+
+- <i> [HR Data Analysis]() </i>
+	- HR data: [Github](https://github.com/suengj/hr_data)
+	- Coverletter Analysis: [Github](https://github.com/suengj/film_char_network)
+
+
+- <i> [Entrepreneurship]() </i>
+
+- <i> [Organizational Theory]() </i>
+
+<b> Website & Book Recommendations </b>
+
+### Reference
