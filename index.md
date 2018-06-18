@@ -1,9 +1,5 @@
 ### About
 
-This webpage is a collection of my interests and projects in the fields of social network analysis, data science, text analysis, and machine learning. 
-
-<b><i> bio </i></b> 
-
 ![profile_pic](http://res.cloudinary.com/djemws8d8/image/upload/c_scale,w_150/v1527602031/KakaoTalk_20180529_225037917.jpg)
 
 <b>Suengjae Hong (홍승재)</b>
