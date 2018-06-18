@@ -1,1 +1,7 @@
+title: "A website by<br>Suengjae Hong"
+description: This webpage is a collection of my interests and projects in the fields of social network analysis, data science, text analysis, and machine learning. 
+
+show_downloads: false
 theme: jekyll-theme-minimal
+
+markdown: kramdown
