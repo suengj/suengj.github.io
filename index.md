@@ -7,9 +7,9 @@
 <b> [Resume](https://www.linkedin.com/in/suengjaehong/) (Linkedin)</b>
 
 <b>Contact </b>
-- <suengjae.hong@gmail.com>
+- [email](suengjae.hong@gmail.com)
 - [Instagram](https://www.instagram.com/suengj/)
-
+- [Medium](https://medium.com/@suengj)
 
 ### Table of Contents
 <b> A Beginning Guide to... </b>
