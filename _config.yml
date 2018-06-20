@@ -1,33 +1,9 @@
 title: "Suengjae Hong<br><br>홍승재의 블로그"
 description: This webpage is a collection of my interests and projects in the fields of social network analysis, data science, text analysis, and machine learning. 
 
-picture: http://res.cloudinary.com/djemws8d8/image/upload/c_scale,w_150/v1527602031/KakaoTalk_20180529_225037917.jpg
-
-# Author Settings
-author: Suengjae Hong # add your name
-author-img: # add your photo
-about-author: ddd # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
-
-# Disqus
-discus-identifier:  # add your discus identifier
-
-# Tracker
-analytics: # Google Analytics
-
-# Build Settings
 markdown: kramdown
-plugins:
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jemoji
 
-paginate: 8
-paginate_path: "/page/:num"
+![image](http://res.cloudinary.com/djemws8d8/image/upload/c_scale,w_150/v1527602031/KakaoTalk_20180529_225037917.jpg)
 
 show_downloads: false
 theme: jekyll-theme-minimal
