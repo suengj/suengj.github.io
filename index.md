@@ -47,8 +47,11 @@
 
 
 - <i> [Machine Learning]() </i>
-	- [Predication]()
+	- [Regression]()
 		- Titanic Survival: [Github](https://github.com/suengj/titanic_survival)
+	- [Classification]()
+	- [Clustering]()
+	- [Dimensionality Reduction]()
 
 
 - <i> [Text Mining and Analysis]() </i>
