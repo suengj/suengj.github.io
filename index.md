@@ -30,7 +30,8 @@
 	- [Mathematics]()
 - [Machine Learning]()
 	- [Basic]()
-
+- [Marketing Research]()
+	- [Basic]()
 
 <b> Research & Personal Project </b>
 
@@ -66,6 +67,8 @@
 - <i> [Entrepreneurship]() </i>
 
 - <i> [Organizational Theory]() </i>
+
+- <i> [Marketing Research]() </i>
 
 <b> Website & Book Recommendations </b>
 
