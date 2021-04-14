@@ -5,11 +5,11 @@
 <b>Suengjae Hong (홍승재)</b>
 
 <b> [Resume](https://www.linkedin.com/in/suengjaehong/) (Linkedin)</b>
+<b> [Instagram](https://www.instagram.com/suengj/) </b>
+<b> [Medium](https://medium.com/@suengj) </b>
 
 <b>Contact </b>
 - [email](suengjae.hong@gmail.com)
-- [Instagram](https://www.instagram.com/suengj/)
-- [Medium](https://medium.com/@suengj)
 
 ### Table of Contents
 <b> Work experience </b>
