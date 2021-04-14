@@ -6,13 +6,11 @@
 
 <b> [Linkedin](https://www.linkedin.com/in/suengjaehong/)</b>
 
--[Instagram](https://www.instagram.com/suengj/)
-
--[Medium](https://medium.com/@suengj)
-
-
 <b>Contact </b>
 - [email](suengjae.hong@gmail.com)
+- [Instagram](https://www.instagram.com/suengj/)
+- [Medium](https://medium.com/@suengj)
+
 
 ### Table of Contents
 <b> Work experience </b>
