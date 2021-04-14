@@ -12,26 +12,9 @@
 - [Medium](https://medium.com/@suengj)
 
 ### Table of Contents
-<b> A Beginning Guide to... </b>
-- [R]()
-	- [R Basic](https://github.com/suengj/R_basic/blob/master/README.md): [more contents](https://github.com/suengj/R_basic)
-	- [The R Package]()
-- [Python]()
-	- [Python Basic](https://github.com/suengj/Python_basic/blob/master/README.md): [more contents](https://github.com/suengj/Python_basic)
-	- [The Python Library]()
-- [STATA]()
-	- [STATA Basic]()
-	- [IPySTATA](https://github.com/suengj/STATA_basic/blob/master/README.md)
-- [Social Network]()
-	- [Basic]()
-	- [Theory]() & [Analysis]()
-- [Statistics & Mathematics]()
-	- [Statistics]()
-	- [Mathematics]()
-- [Machine Learning]()
-	- [Basic]()
-- [Marketing Research]()
-	- [Basic]()
+<b> Work experience </b>
+- <i> [Marketing analysis]() </i>
+	- [Text analysis]()
 
 <b> Research & Personal Project </b>
 
@@ -69,6 +52,28 @@
 - <i> [Organizational Theory]() </i>
 
 - <i> [Marketing Research]() </i>
+
+
+<b> A Beginning Guide to... </b>
+- [R]()
+	- [R Basic](https://github.com/suengj/R_basic/blob/master/README.md): [more contents](https://github.com/suengj/R_basic)
+	- [The R Package]()
+- [Python]()
+	- [Python Basic](https://github.com/suengj/Python_basic/blob/master/README.md): [more contents](https://github.com/suengj/Python_basic)
+	- [The Python Library]()
+- [STATA]()
+	- [STATA Basic]()
+	- [IPySTATA](https://github.com/suengj/STATA_basic/blob/master/README.md)
+- [Social Network]()
+	- [Basic]()
+	- [Theory]() & [Analysis]()
+- [Statistics & Mathematics]()
+	- [Statistics]()
+	- [Mathematics]()
+- [Machine Learning]()
+	- [Basic]()
+- [Marketing Research]()
+	- [Basic]()
 
 <b> Website & Book Recommendations </b>
 
