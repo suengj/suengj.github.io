@@ -5,7 +5,9 @@
 <b>Suengjae Hong (홍승재)</b>
 
 <b> [Resume](https://www.linkedin.com/in/suengjaehong/) (Linkedin)</b>
+
 <b> [Instagram](https://www.instagram.com/suengj/) </b>
+
 <b> [Medium](https://medium.com/@suengj) </b>
 
 <b>Contact </b>
